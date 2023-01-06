@@ -1,0 +1,26 @@
+{
+  "name": "や あ",
+  "ID": "100068290447157",
+  "pet": [
+    {
+      "name": "Huntail",
+      "type": "Water",
+      "HP": "22.01.1",
+      "Attack": "41.62.08",
+      "Defense": "42.02.1",
+      "Speed": "20.81.04",
+      "skill": [
+        "Swift Swim",
+        "Water Veil"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/367.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 1,
+    "lose": 0,
+    "draw": 0
+  }
+}

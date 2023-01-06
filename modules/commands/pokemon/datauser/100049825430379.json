@@ -1,0 +1,11 @@
+{
+    "name": "Nguyễn Minh",
+    "ID": "100049825430379",
+    "pet": [],
+    "foods": [],
+    "solo": {
+        "win": 0,
+        "lose": 0,
+        "draw": 0
+    }
+}

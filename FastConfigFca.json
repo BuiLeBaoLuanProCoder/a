@@ -1,0 +1,10 @@
+{
+	"Language": "vi",
+	"MainColor": "#9900FF",
+	"BroadCast": false,
+	"EncryptFeature": true,
+	"PreKey": "",
+	"Uptime": false,
+	"AutoRestartMinutes": 0,
+	"MainName": "[ FCA-HZI ]"
+}

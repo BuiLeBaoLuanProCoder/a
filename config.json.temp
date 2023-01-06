@@ -1,0 +1,218 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminOnly": false,
+    "spadmOnly": false,
+    "duyetbox": false,
+    "ibrieng": false,
+    "dangky": false,
+    "duyetib": [],
+    "commandDisabled": [
+        "character.js",
+        "example.js",
+        "fast.js",
+        "ip.js",
+        "qr.js",
+        "rever.js",
+        "shortlink.js",
+        "shorumg.js",
+        "soundcloud.js",
+        "zuck.js",
+        "goibot.js",
+        "checktt",
+        "autoreset.js"
+    ],
+    "eventDisabled": [
+        "nickname.js"
+    ],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "CuGoiLaLuan",
+    "PREFIX": "<",
+    "ADMPREFIX": "",
+    "ADMINBOT": [
+        "100008374389509"
+    ],
+    "SUPERADMIN": [
+        "100008374389509"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18",
+        "autoMarkDelivery": true,
+        "autoMarkRead": true
+    },
+    "version": "1.2.14",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 2000000
+    },
+    "checktt": {
+        "maxColumn": 300
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "gif": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "instagram": {
+        "APIKEY": "81b0466275mshb5265735e50299cp1b01c5jsn3e7f93112fd3"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 10
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "29be078b8f5239a1202742869f92c25955bdcab3"
+    },
+    "shortlink": {
+        "bitlyAPI": "150ef1bc3af86500796d645c86f56766e4802566"
+    },
+    "sim": {
+        "APIKEY": "API-1234-abcd-1234-abcd"
+    },
+    "soundcloud": {
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": true,
+        "delThread": ""
+    },
+    "thamngan": {
+        "cooldownTime": 1200000
+    },
+    "weather": {
+        "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "log": {
+        "enable": true
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 10
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyDMNZtbgUAypH1YpKnLGWrHZN4RPiXFUlA"
+    },
+    "fbvideo": {
+        "APIKEY": "LEANHTRUONG=3Nc0hXNvNy7f6UL5J6L0cKOVzoVMGktwVy80N5mDaUsfJZGLX3=APIKEY=PLANFREE"
+    },
+    "box": {
+        "cooldownTime": 1200000
+    },
+    "fbcover": {
+        "APIKEY": "tdunguwu"
+    },
+    "userinfo": {
+        "APIKEY": "tdunguwu"
+    },
+    "videov2": {
+        "YOUTUBE_API2": "AIzaSyDX4b7tIAgK0GaFMbsA-nLrm36s3Q_93bo"
+    },
+    "ddlc": {
+        "APIKEY": "tdunguwu"
+    },
+    "lixifake": {
+        "cooldownTime": 1200000
+    },
+    "ts": {
+        "cooldownTime": 43200000
+    },
+    "bannertet": {
+        "APIKEY": "tdunguwu"
+    },
+    "mkt": {
+        "APIKEY": "tdunguwu"
+    },
+    "poketest": {
+        "APIKEY": "chinhdz"
+    },
+    "rtc": {
+        "APIKEY": "tdunguwu"
+    },
+    "moon": {
+        "APIKEY": "tdunguwu"
+    },
+    "pokepet": {
+        "APIKEY": "chinhdz"
+    },
+    "audio": {
+        "API_KEY": "mzkFree_MYUYLZB32XVLZXSAAS1"
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "petpoke": {
+        "APIKEY": ""
+    },
+    "video": {
+        "API_KEY": "mzkFree_MYUYLZB32XVLZXSAAS1"
+    },
+    "memory": {
+        "APIKEY": "tdunguwu"
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4,
+        "dropboxToken": "sl.BBU1fqFSyW6ueCx9HFH9aBKdkEOfwsPAGaHrblyNTgyYCU8DTyRDzDgtT7YA7i9W9jUTxnZDgcf2DNbT9w3hf6mDkIxU0h-ccIgLNPPiODmM6-l448eDlVpcO403p6kGKlXAe4o"
+    },
+    "command": {
+        "APIKEY": "araXy"
+    },
+    "subnautica": {
+        "cooldownTime": 1200000
+    },
+    "zwar": {
+        "cooldownTime": 1200000
+    },
+    "datlich": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "cavevip": {
+        "cooldownTime": 1200000
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Phạm Vũ",
+  "ID": "100036512041033",
+  "pet": [
+    {
+      "name": "Zigzagoon",
+      "type": "Normal",
+      "HP": "54.1",
+      "Attack": 42.75,
+      "Defense": 58.425,
+      "Speed": 85.5,
+      "skill": [
+        "Pickup",
+        "Gluttony",
+        "Quick Feet"
+      ],
+      "coins": 19000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/263.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 1,
+    "draw": 0
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Tuấn Pery",
+  "ID": "100072612986986",
+  "pet": [
+    {
+      "name": "Froakie",
+      "type": "Water",
+      "HP": "61.53.075NaNNaNNaNNaNNaN",
+      "Attack": "84.04.2NaNNaNNaNNaNNaN",
+      "Defense": "60.033.0014999999999996NaNNaNNaNNaN",
+      "Speed": "106.55.325NaNNaNNaNNaNNaN",
+      "skill": [
+        "Torrent",
+        "Protean"
+      ],
+      "coins": 26801.9128125,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/656.png"
+    },
+    {
+      "name": "Sunkern",
+      "type": "Grass",
+      "HP": 14.25,
+      "Attack": 14.25,
+      "Defense": 14.25,
+      "Speed": 14.25,
+      "skill": [
+        "Chlorophyll",
+        "Solar Power",
+        "Early Bird"
+      ],
+      "coins": 4750,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/191.png"
+    },
+    {
+      "name": "Tepig",
+      "type": "Fire",
+      "HP": "26.0",
+      "Attack": "25.2",
+      "Defense": "18.0",
+      "Speed": "18.0",
+      "skill": [
+        "Blaze",
+        "Thick Fat"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/498.png"
+    },
+    {
+      "name": "Staravia",
+      "type": "Normal",
+      "HP": "82.5",
+      "Attack": "112.5",
+      "Defense": "75.0",
+      "Speed": "120.0",
+      "skill": [
+        "Intimidate",
+        "Reckless"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/397.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 9,
+    "lose": 1,
+    "draw": 4
+  }
+}

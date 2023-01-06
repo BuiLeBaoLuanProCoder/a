@@ -1,0 +1,113 @@
+{
+  "name": "Hoàng Pain",
+  "ID": "100058315136286",
+  "pet": [
+    {
+      "name": "Popplio",
+      "type": "Water",
+      "HP": 19,
+      "Attack": 20.520000000000003,
+      "Defense": 20.520000000000003,
+      "Speed": 15.2,
+      "skill": [
+        "Torrent",
+        "Liquid Voice"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/728.png"
+    },
+    {
+      "name": "Darumaka",
+      "type": "Fire",
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 0,
+      "Speed": 0,
+      "skill": [
+        "Hustle",
+        "Inner Focus"
+      ],
+      "coins": 31587.5,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/554.png"
+    },
+    {
+      "name": "Gyarados",
+      "type": "Water",
+      "HP": "135.4",
+      "Attack": 178.125,
+      "Defense": 112.575,
+      "Speed": 115.425,
+      "skill": [
+        "Intimidate",
+        "Moxie"
+      ],
+      "coins": 19000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/130.png"
+    },
+    {
+      "name": "Lugia",
+      "type": "Psychic",
+      "HP": "143.6161220",
+      "Attack": 185.05194,
+      "Defense": 239.20193999999998,
+      "Speed": 212.12694,
+      "skill": [
+        "Pressure",
+        "Multiscale"
+      ],
+      "coins": 30181.25,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/249.png"
+    },
+    {
+      "name": "Frillish",
+      "type": "Water",
+      "HP": null,
+      "Attack": 38.019000000000005,
+      "Defense": null,
+      "Speed": 38.019000000000005,
+      "skill": [
+        "Water Absorb",
+        "Cursed Body",
+        "Damp"
+      ],
+      "coins": 9975,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/592.png"
+    },
+    {
+      "name": "Aron",
+      "type": "Steel",
+      "HP": "25.0",
+      "Attack": "35.0",
+      "Defense": "50.0",
+      "Speed": "15.0",
+      "skill": [
+        "Sturdy",
+        "Rock Head",
+        "Heavy Metal"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/304.png"
+    },
+    {
+      "name": "Aipom",
+      "type": "Normal",
+      "HP": "82.5",
+      "Attack": "105.0",
+      "Defense": "82.5",
+      "Speed": "127.5",
+      "skill": [
+        "Run Away",
+        "Pickup",
+        "Skill Link"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/190.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 1,
+    "lose": 7,
+    "draw": 4
+  }
+}

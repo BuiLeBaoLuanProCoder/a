@@ -1,0 +1,53 @@
+{
+  "name": "Tan Dung Nguyen",
+  "ID": "100051638101791",
+  "pet": [
+    {
+      "name": "Mew",
+      "type": "Psychic",
+      "HP": "9999",
+      "Attack": 9999,
+      "Defense": 9999,
+      "Speed": 9999,
+      "coins": 40000,
+      "skill": [
+        "Synchronize"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/151.png"
+    },
+    {
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "HP": 9999,
+      "Attack": 9999,
+      "Defense": 9999,
+      "Speed": 9999,
+      "coins": 43600,
+      "skill": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png"
+    },
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "HP": 35,
+      "Attack": 55,
+      "Defense": 40,
+      "Speed": 90,
+      "coins": 22000,
+      "skill": [
+        "Static",
+        "Lightning Rod"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/025.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 100,
+    "lose": 1,
+    "draw": 0
+  }
+}

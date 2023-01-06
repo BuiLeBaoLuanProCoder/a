@@ -1,0 +1,26 @@
+{
+  "name": "Trịnh Dũng",
+  "ID": "100071169205389",
+  "pet": [
+    {
+      "name": "Zubat",
+      "type": "Poison",
+      "HP": "57.0",
+      "Attack": 64.125,
+      "Defense": 49.875,
+      "Speed": 78.375,
+      "skill": [
+        "Inner Focus",
+        "Infiltrator"
+      ],
+      "coins": 19000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/041.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 1,
+    "draw": 0
+  }
+}
