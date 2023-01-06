@@ -1,5 +1,5 @@
 const fs = require("fs-extra");
-const login = require("fca-xuyen-get");
+const login = require("fca");
 const readline = require("readline");
 const totp = require("totp-generator");
 
